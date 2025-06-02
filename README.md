@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--.
-
 I’m a Software Engineer passionate about building technology that solves real-life community and business problems. My approach is grounded in SDLC best practices, with a strong focus on usability, security, performance, and scalability.
 
 
@@ -35,4 +33,3 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ZKTeco](https://img.shields.io/badge/ZKTeco-009c3c?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
--->
