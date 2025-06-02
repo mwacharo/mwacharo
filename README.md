@@ -10,9 +10,7 @@ I've built and deployed full systems in:
 - **E-commerce integrations** with WooCommerce and Shopify
 - **AI-Powered CRM** using **OpenAI chat completion** and **real-time data analytics**
 
-I also integrate **ZKTeco biometric systems**, use AI for task automation, and have implemented **tracking devices** in logistics operations — showcasing my IoT proficiency.
 
----
 
 ### 🎯 Currently Learning
 - **Java** for robust enterprise backend development  
